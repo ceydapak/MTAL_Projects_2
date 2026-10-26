@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace MTAL_Projects_2
 {
-    //Orta Seviye Form
+    //Zor Seviye Form
     public partial class Form3 : Form
     {
         public Form3()
