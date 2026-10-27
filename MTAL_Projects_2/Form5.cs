@@ -11,6 +11,7 @@ using System.Windows.Forms;
 namespace MTAL_Projects_2
 {
     //Zor Seviye Form
+    //Yeni commit
     public partial class Form5 : Form
     {
         public Form5()
